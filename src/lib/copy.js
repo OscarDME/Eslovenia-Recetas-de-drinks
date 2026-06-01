@@ -7,7 +7,7 @@ export const copy = {
   // ── SEO / METADATA (Layout.astro bere to) ──────────────────────────────────
   metadata: {
     lang: 'sl',
-    title: '150 receptov za vrhunske koktajle doma',
+    title: '500 receptov za vrhunske koktajle doma',
     description:
       'Recepti za koktajle, ustvarjeni za prave zabave — preproste sestavine in hitra priprava. Navduši prijatelje, prihrani pri dragih barih in postani zvezda večera. Vključeni tudi ekskluzivni bonusi.',
     canonical: 'https://150receitascopao.netlify.app',
@@ -27,7 +27,7 @@ export const copy = {
   // ── 2. HERO ────────────────────────────────────────────────────────────────
   hero: {
     tag: '🍋 Ekskluzivna ponudba',
-    titleHighlight: '150 receptov za vrhunske koktajle',
+    titleHighlight: '500 receptov za vrhunske koktajle',
     titleConnector: 'za tvoj',
     titleHighlightGreen: 'popoln užitek',
     titleEnd: 'Tudi če si popoln začetnik',
@@ -36,7 +36,7 @@ export const copy = {
       { label: 'WhatsApp', kind: 'whatsapp' },
       { label: 'E-pošte', kind: 'email' },
     ],
-    videoAlt: 'Predstavitev paketa 150 receptov za domače koktajle',
+    videoAlt: 'Predstavitev paketa 500 receptov za domače koktajle',
     ctaLabel: '✅ ŽELIM SVOJE RECEPTE ZDAJ',
     ctaSub: '🔒 100% varen nakup • Takojšen dostop',
   },
@@ -118,14 +118,14 @@ export const copy = {
     title: 'Izberi, kako želiš začeti danes:',
     complete: {
       badge: '⭐ Najbolj iskano',
-      title: 'Popoln paket: 150+ receptov za koktajle',
-      descriptionLead: '150+ receptov za neverjetne domače koktajle + vsi',
+      title: 'Popoln paket: 500+ receptov za koktajle',
+      descriptionLead: '500+ receptov za neverjetne domače koktajle + vsi',
       descriptionStrong: 'ekskluzivni bonusi,',
       descriptionTail: 'da postaneš najboljši domači barman.',
-      mockupAlt: 'Prikaz Popolnega paketa s 150 recepti',
+      mockupAlt: 'Prikaz Popolnega paketa s 500 recepti',
       includesLabel: '🎁 Vključuje vse bonuse:',
       items: [
-        '150+ receptov za vrhunske koktajle',
+        '500+ receptov za vrhunske koktajle',
         'Seznam ugodnih alternativ za drage alkoholne pijače',
         'Priročnik za pametno nakupovanje sestavin',
         'Vodnik za popolno domačo zabavo',
@@ -186,7 +186,7 @@ export const copy = {
 
   // ── 10. ZADNJI CTA ─────────────────────────────────────────────────────────
   finalCta: {
-    ctaLabel: '🍹 ŽELIM DOSTOP DO 150 RECEPTOV ZDAJ',
+    ctaLabel: '🍹 ŽELIM DOSTOP DO 500 RECEPTOV ZDAJ',
     subText: '🔒 Takojšen dostop • 14-dnevna garancija • Varno plačilo',
   },
 
